@@ -1,0 +1,25 @@
+.container {
+  margin-left: 30px;
+  margin-top: 15px;
+}
+
+.containerMain {
+
+}
+
+.navContainer{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  width: 200px;
+  border-bottom: 2px solid;
+  background-color: "#f5f5f5";
+  padding: 0 20px;
+}
+
+.button{
+  font-size: 20px;
+  font-weight: 500;
+  cursor: pointer;
+  margin-right: 10px;
+}
